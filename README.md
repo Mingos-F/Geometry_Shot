@@ -10,8 +10,8 @@
   
 ## Usage
 
-Use the W, A, S, D keys to move.
-Use the left mouse button to fire the gun.
+Use the W, A, S, D keys to move. <br />
+Use the left mouse button to fire the gun. <br />
 Use the right mouse button to use the special ability. This ability leaves a small mark behind in the location the right mouse button was clicked, it can then be reactivated by pressing the right mouse button again, teleporting the player back to the mark and firing bullets around.
 
 https://user-images.githubusercontent.com/104300752/184926691-4a45c30a-faab-4780-9ead-13fabb905997.mp4
