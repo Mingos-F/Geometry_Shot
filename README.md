@@ -2,7 +2,7 @@
 
 ## Description
 
-  This creation of this project was motivated by my will to learn more about c++, expecificly graphics oriented c++ programing. <br \>
+  This creation of this project was motivated by my will to learn more about c++, expecificly graphics oriented c++ programing. <br />
   The program consists on controlling a geometric shape and destroying other geometric shapes to get a high score. 
   
 ## Installation
